@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsscheller/audio-util.git"
+  },
+  "bugs": "https://github.com/jsscheller/audio-util/issues",
+  "forum": "https://github.com/jsscheller/audio-util/discussions",
+  "dependencies": {
+    "esbuild": "^0.21.2",
+    "ffmpeg-wasm-audio": "^0.1.0",
+    "runish": "^0.1.0",
+    "serdev": "^0.1.0",
+    "typescript": "^5.3.3",
+    "uvu": "^0.5.6"
+  }
+}
